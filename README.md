@@ -3,8 +3,8 @@
 This project was inspired by the javascript version by [Tech with Tim](https://www.youtube.com/watch?v=E3XxeE7NF30)
 
 # Try it out
-Navigate to the ```output``` folder
-Download the ```slotmachine.exe``` file and run.
+1. Navigate to the ```output``` folder
+2. Download the ```slotmachine.exe``` file and run.
 
 # To compile
 ## Prerequisites
