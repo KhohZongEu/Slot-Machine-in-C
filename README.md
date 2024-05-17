@@ -18,7 +18,8 @@ A | A | A
 4. You will then receive "money" based on the type of letter that is in a row and the amount you bet
 
 ### How the reels work
-Each reel/column contains 20 letters in total. However, only 3 letters are displayed and used to determine win-loss.__
+Each reel/column contains 20 letters in total. However, only 3 letters are displayed and used to determine win-loss.
+
 The type of letters and the number of them in reach reel:
 ```
 A: 2
@@ -26,11 +27,14 @@ B: 4
 C: 6
 D: 8
 ```
-Out of these there will be 3 letters selected for each row and column which are displayed.__
+Out of these there will be 3 letters selected for each row and column which are displayed.
+
 
 ### How winning works
-The rows which are accounted for are based on the number of rows you bet on, starting from the top.__
+The rows which are accounted for are based on the number of rows you bet on, starting from the top.
+
 If the rows which you bet on are all the same letters, you will receive "money"
+
 The values are multiplied by the rarity of the letter displayed
 ```
 A - x5
