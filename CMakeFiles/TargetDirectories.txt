@@ -1,0 +1,3 @@
+C:/Users/pigs4/OneDrive/Code/C/Slot-Machine-in-C/CMakeFiles/Slotmachine.dir
+C:/Users/pigs4/OneDrive/Code/C/Slot-Machine-in-C/CMakeFiles/ALL_BUILD.dir
+C:/Users/pigs4/OneDrive/Code/C/Slot-Machine-in-C/CMakeFiles/ZERO_CHECK.dir

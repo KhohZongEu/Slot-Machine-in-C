@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/pigs4/OneDrive/Code/C/Slot-Machine-in-C/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -O3 -DNDEBUG -std=gnu99 -o CMakeFiles\\Slotmachine.dir\\src\\main.c.obj -c C:\\Users\\pigs4\\OneDrive\\Code\\C\\Slot-Machine-in-C\\src\\main.c",
+  "file": "C:/Users/pigs4/OneDrive/Code/C/Slot-Machine-in-C/src/main.c",
+  "output": "CMakeFiles/Slotmachine.dir/src/main.c.obj"
+}
+]

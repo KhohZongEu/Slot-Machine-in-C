@@ -1,0 +1,10 @@
+^C:\USERS\PIGS4\ONEDRIVE\CODE\C\SLOT-MACHINE-IN-C\CMAKEFILES\97AD05B5F225E6EFEF9C6FEC31B125DA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/pigs4/OneDrive/Code/C/Slot-Machine-in-C -BC:/Users/pigs4/OneDrive/Code/C/Slot-Machine-in-C --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/pigs4/OneDrive/Code/C/Slot-Machine-in-C/Slotmachine.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

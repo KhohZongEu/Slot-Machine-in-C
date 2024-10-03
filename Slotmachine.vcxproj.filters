@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pigs4\OneDrive\Code\C\Slot-Machine-in-C\src\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pigs4\OneDrive\Code\C\Slot-Machine-in-C\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{158F3326-54EE-35F6-ADA0-AB0DC28D2D45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
