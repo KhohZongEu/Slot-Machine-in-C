@@ -43,14 +43,18 @@ C - x3
 D - x2
 ```
 
-## Try it out
-1. Navigate to the ```output``` folder
-2. Download the ```slotmachine.exe``` file and run.
+# Try it out
+## `Releases`
+Download the .exe file from `Releases`.
 
-# To compile
-## Prerequisites
+## `CMake`
+### <u>Prerequisites</u>
+Command line tool ```cmake``` have to be installed
+1. Clone the Repository.
+2. Run `cmake`.
+
+## `gcc`
+### <u>Prerequisites</u>
 Command line tools  ```gcc``` and ```make``` have to be installed
-## Commands
-Run ```make``` in terminal
-# To Run
-Run ```./output/slotmachine``` in terminal
+1. Clone the Repository.
+2. Run `make`.
